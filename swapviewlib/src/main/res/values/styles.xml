@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="SwapView">
+        <attr name="swaptime" format="integer" />
+        <attr name="exitAnimation" format="reference" />
+        <attr name="enterAnimation" format="reference" />
+    </declare-styleable>
+
+</resources>
